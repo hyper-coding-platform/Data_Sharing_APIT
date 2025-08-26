@@ -3,4 +3,3 @@ flask_sqlalchemy
 flask_marshmallow
 marshmallow
 flask_cors
-gunicorn
